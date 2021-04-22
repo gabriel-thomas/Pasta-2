@@ -335,6 +335,10 @@ triangle_type2 <- function(side1,side2,side3) {
 
 #teste teste teste
 
+soma <- function(a,b) {
+  c <- a+b
+  return(c)
+}
 
 
 
